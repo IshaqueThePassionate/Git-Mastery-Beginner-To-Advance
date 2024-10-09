@@ -2,4 +2,4 @@
 
 this is readme file about github
 
-author - Ishaque sahib
+author - Ishaque sahibbb
